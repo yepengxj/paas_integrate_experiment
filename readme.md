@@ -1,10 +1,9 @@
 ## 1.  实验背景
 PAAS平台和容器技术的应用将会对系统开发、集成方式带来显著变化，本实验主要用于利用现有工具链和技术栈完成向PAAS平台的转移和容器技术的引入。
 ## 2.  平台选择   
-1. cloudfoundry
-2. openshift
-3. kubernetes
-4. cloudify
+1. cloudfoundry https://docs.cloudfoundry.org/
+2. openshift https://docs.openshift.org/latest/welcome/index.html
+3. kubernetes https://github.com/kubernetes/kubernetes/tree/master/docs
 
 ## 3.  实验内容
 1. 完成平台搭建  
